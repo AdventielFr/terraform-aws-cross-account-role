@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.1.0] - 2020-02-25
+### Changed
+- Added description for role created.
+
 ## [1.0.0] - 2019-06-05
 ### Changed
 - Added support for Terraform 0.12. Changes are not backwards compatible with versions of Terraform &lt; 0.12.
